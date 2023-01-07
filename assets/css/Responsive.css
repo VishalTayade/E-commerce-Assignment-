@@ -1,0 +1,11 @@
+@media screen and (max-width: 1200px) {
+    .first-contain {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer-contents img {
+        height: 28px;
+    }
+}
